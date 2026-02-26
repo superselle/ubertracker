@@ -24,6 +24,3 @@ tmp/
 .vscode/
 .idea/
 *.swp
-
-# Documentation
-*.md
