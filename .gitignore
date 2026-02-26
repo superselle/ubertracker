@@ -1,0 +1,29 @@
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test artifacts
+*.test
+*.out
+coverage.out
+cover.out
+*.prof
+coverage
+ubertracker_cover
+
+# Build & temp
+*.log
+.tmp/
+tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Documentation
+*.md
